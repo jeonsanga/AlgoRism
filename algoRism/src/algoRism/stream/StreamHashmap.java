@@ -1,4 +1,4 @@
-package algoRism;
+package algoRism.stream;
 
 import java.util.HashMap;
 import java.util.Map;

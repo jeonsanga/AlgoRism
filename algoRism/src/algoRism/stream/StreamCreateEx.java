@@ -1,4 +1,4 @@
-package algoRism;
+package algoRism.stream;
 
 import java.util.ArrayList;
 import java.util.Arrays;
